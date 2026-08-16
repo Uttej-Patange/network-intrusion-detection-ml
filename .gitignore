@@ -1,0 +1,12 @@
+data/
+__pycache__/
+*.pyc
+.venv/
+venv/
+ML_Assignment_2.pdf
+ML_Assignment_2.md
+*.png
+*.jpg
+*.jpeg
+*.docx
+ML_Assignment_2_Submission.pdf
